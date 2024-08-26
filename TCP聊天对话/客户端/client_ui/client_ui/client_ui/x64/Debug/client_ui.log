@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\代码\c code\TCP聊天对话\客户端\client_ui\client_ui\client_ui\main.cpp(402,26): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\代码\c code\TCP聊天对话\客户端\client_ui\client_ui\client_ui\main.cpp(543,28): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\代码\c code\TCP聊天对话\客户端\client_ui\client_ui\client_ui\main.cpp(613,91): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\代码\c code\TCP聊天对话\客户端\client_ui\client_ui\client_ui\main.cpp(639,43): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\代码\c code\TCP聊天对话\客户端\client_ui\client_ui\client_ui\main.cpp(510,38): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  client_ui.vcxproj -> D:\代码\c code\TCP聊天对话\客户端\client_ui\client_ui\x64\Debug\client_ui.exe

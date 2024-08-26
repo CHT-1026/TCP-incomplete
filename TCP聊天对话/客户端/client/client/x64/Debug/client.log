@@ -1,0 +1,4 @@
+﻿  main.c
+D:\代码\c code\TCP聊天对话\客户端\client\client\main.c(22,27): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\代码\c code\TCP聊天对话\客户端\client\client\main.c(36,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  client.vcxproj -> D:\代码\c code\TCP聊天对话\客户端\client\x64\Debug\client.exe
